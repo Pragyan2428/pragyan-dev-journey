@@ -169,7 +169,7 @@ GitHub:
 https://github.com/Pragyan2428
 
 LinkedIn:
-(Add your LinkedIn profile URL)
+https://www.linkedin.com/in/pragyansinghkiit/
 
 ---
 
